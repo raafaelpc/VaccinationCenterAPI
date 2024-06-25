@@ -27,6 +27,10 @@ dotnet ef database update
 
 #### Inicie o projeto.
 
+## Utilize o Swagger para chegar e testar os endpoints da API
+![image](https://github.com/raafaelpc/VaccinationCenterAPI/assets/80062189/d47df1ce-8cfe-4f86-94f5-789855c7f3f4)
+
+
 ## Check de validações
 
 ● O sistema deve impedir a duplicação de postos com o mesmo nome. ✔
