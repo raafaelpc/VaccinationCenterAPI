@@ -5,7 +5,7 @@
 
 ### Foi utilizado nesse projeto:
 
-- [.NET 6]
+- [.NET 7]
 - [Entity Framework Core]
 - [SQL Server]
 - [Migration]
